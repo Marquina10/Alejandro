@@ -1,7 +1,7 @@
 package TresEnRaya;
 
 import java.util.Scanner;
-
+// Este proyecto es para un comentario de git y comprobar la modificacion
 public class Coordenada {
     private int fila;
     private int columna;
